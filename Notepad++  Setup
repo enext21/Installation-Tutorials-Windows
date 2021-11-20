@@ -1,0 +1,20 @@
+Compile and Run Java Program in Notepad++
+
+Prerequisite:Java (JRE) must be installed on your system.
+How to Check: open cmd and type : java -version    hit enter
+
+if there is no java installed or older one please update it.
+	go to Controll Pannel and unistall older one
+Link for letest - https://www.oracle.com/java/technologies/javase-jdk16-downloads.html#license-lightbox
+
+Step1: Download Notepad++ and install it.
+	link- https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.5/npp.7.9.5.Installer.exe
+
+Step2: plugin installation in notepad++
+
+go to notepad++ interface > Plugins > Plugins Admin  search for NppExec  click on  install 
+internet connection must be enabled
+
+Step3: java path setup in enviroment variable.
+
+Step4: create java program in notepad++ and run it.
