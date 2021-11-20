@@ -1,0 +1,18 @@
+How To Enlarge a Virtual Machine’s Disk in VirtualBox or VMware
+See The Steps
+Check to storage 
+yeah
+
+shutdown the machine
+
+go to list 
+click on the list  do not double click
+
+Virtual Media Manager
+Select your OS
+
+clickon properties
+input size 
+apply
+ok 
+exit
