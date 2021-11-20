@@ -1,0 +1,26 @@
+How to install jupyter lab/notebook in windows 10
+Step1 : Download from website (Reco...Letest Version)
+
+Link: https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
+Install it tick on last opt.. add path.....
+finish the installation ---close 
+
+check python version
+
+	python --version
+
+Step2: open cmd 
+
+
+WindowsKey+R    type-cmd or search cmd
+
+Type- 
+
+Installtion-	pip install jupyterlab   (for installation there is no space bw 
+Check Version-  jupyter --version
+Run-  		jupyter lab		(here is space ...keep in mind)
+
+
+this will take few more minut than usual ..depends upon ping (internet0
+
+Thanks for watching .... keep learning gud luck    
