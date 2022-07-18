@@ -1,0 +1,103 @@
+How to Install Windows 10 in Virtual Box
+
+Step1: Download Virtual Box Letest Version
+Link-https://download.virtualbox.org/virtualbox/6.1.22/VirtualBox-6.1.22-144080-Win.exe
+	if you already have do further steps
+
+Step2: Download Windows 10 OS ISO Image File
+Create From your OS  -
+Link- https://go.microsoft.com/fwlink/?LinkId=691209
+it may take time longer then usual
+
+i am not going to create from my original OS
+so i preffer to close it
+is you want to create your older one do  below steps
+
+Download MediaCreationTool >Install>
+	>Accept
+	>CreateInstallation Media(USB,ISO)
+	>Next
+	>Either choose recomended setting or choose 
+		>Lang-English
+		>Edition-Windows10
+		>Arch=64
+	>Next
+	>ISO File
+	>Next
+	>Choose Destination
+	>Save
+	>Finish
+	
+	i will upload this documentation
+	
+
+
+Alternative Link- http://207.180.222.194/en_windows_10_pro_10240_x64_dvd.iso
+(Disclaimer:May Have Contain Malwares)
+
+i preffer your ones
+any way if you want to download link is given
+just duble click or 
+copy that link
+
+
+i have downloaded this OS 
+
+to split screen just press and hold windows key+ left key or right key 
+or move through mouse 
+
+
+Step3: Go to Virtual Box 
+	
+	>New
+		>Name-Windows10
+		>Machine Folder-Defaul(Pref)
+		>Type-Microsoft Windows
+		>Version- Windows10(64 bit)
+		if you enter windows name it will auto detect  or you can costomise name 
+	Memories Size- Reco(2GB) for Windows10(4GB Best)
+	
+	>Createa Virtual Hard Disk
+	>VDI(Virtual Disk Image)
+	>Dynamicallly Allocated
+	>must be 50BG+ Recomended(80 GB)
+	>Create
+	
+Step4: Choose Windows 10
+	Setting >System>Processor>2CPU
+			>Storage>Controller SATA> +
+			Add ISO Media>OK
+			Remove older Attatchements 
+			Choose W10 and >OK
+			
+Step5: Start
+	Follow .............
+	
+	
+	if you also facing these issue ...Create Again Delete older One......
+	Actually there was a problem i ditatched the media ..don't do that only choose iso
+
+
+Attention: Don not Enable  Drag n Drop Setin as bidirectional it may be harm to you system ansd privacy 
+enable only if required and then close or desable it
+
+Step6: Full Screen 
+	>Device
+	>Insert Guest Addition CD
+	>File Explore
+	>This PC 
+		>Virtual Bos Guest Addition
+			>Dobble Click
+	>Install 64 bit (or another if you)
+	>Reboot Machine
+	Ho
+	shortcut key to go or exit full screen 
+	 Right Side of Space key 
+	 
+	 Ctrl+F
+	 
+	 Thanks for watching
+	 keep learning
+	 do subscribe if you find helpful
+	 
+Copyright @ eNext Technology
